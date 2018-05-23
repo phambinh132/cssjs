@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://bit.ly/2IFSFoC' target='_blank'><img src='https://duanflcluxcityquynhon.com/wp-content/uploads/2018/05/00-1516466709654-95-0-471-670-crop-1516466722496.jpg' width='500px'/><br/>13 Kỹ thuật đẩy top vượt trội</a>. Dự án FLC Lux City Quy Nhơn. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://bit.ly/2IFSFoC' target='_blank'><img src='https://duanflcluxcityquynhon.com/wp-content/uploads/2018/05/00-1516466709654-95-0-471-670-crop-1516466722496.jpg' width='500px'/><br/>Dự án FLC Lux City Quy Nhơn</a>. HOTLINE: 0977.855.446. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
