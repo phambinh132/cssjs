@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://bit.ly/2kpYkR7' target='_blank'><img src='http://charmingtoniris4.net/wp-content/uploads/2018/03/tien-do-charmington-iris-quan-4-1200x621.jpg' width='500px'/><br/>Dự án căn hộ Charmington Iris Quận 4</a>. Vị trí vàng - đẹp nhất còn lại của Quận 4. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://bit.ly/2JdT0y2' target='_blank'><img src='https://farm2.staticflickr.com/1737/41638095974_015d642440_c.jpg' width='500px'/><br/>Dự án căn hộ Charmington Iris Quận 4</a>. Vị trí vàng - đẹp nhất còn lại của Quận 4. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
